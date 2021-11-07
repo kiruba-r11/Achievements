@@ -55,6 +55,8 @@ The repo contains all my achievements and its certificates
   </tbody>
 </table>
 
+---
+
 ## Hackathons
 <table>
   <thead>
@@ -73,6 +75,38 @@ The repo contains all my achievements and its certificates
       <td>Runner Up</td>
       <td>1600+</td>
       <td>IIIT Pune</td>
+    </tr>
+  </tbody>
+<table>
+  
+---
+  
+## HackerRank Certifications
+<table>
+  <thead>
+    <th>S.No</th>
+    <th>Skills Name</th>
+    <th>Level</th>
+    <th>Issue Date</th>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>1.</td>
+      <td><a href="https://www.hackerrank.com/certificates/27bac83ce88d">Problem Solving</a></td>
+      <td>Basic</td>
+      <td>18 Jul 2020</td>
+    </tr>
+     <tr>
+      <td>2.</td>
+      <td><a href="https://www.hackerrank.com/certificates/f745cf9597ab">Java</a></td>
+      <td>Basic</td>
+      <td>11 Sep 2020</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td><a href="https://www.hackerrank.com/certificates/c74348fee714">Java</a></td>
+      <td>Intermediate</td>
+      <td>15 Sep 2020</td>
     </tr>
   </tbody>
 <table>
