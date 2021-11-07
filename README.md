@@ -54,3 +54,25 @@ The repo contains all my achievements and its certificates
     </tr>
   </tbody>
 </table>
+
+## Hackathons
+<table>
+  <thead>
+    <th>S.No</th>
+    <th>Hackathon Name</th>
+    <th>Year of Participation</th>
+    <th>Position</th>
+    <th>No. of Participants</th>
+    <th>Conducted By (College Name)</th>
+  </thead>
+  <tbody align="center">
+     <tr>
+      <td>1.</td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Hackathon%202k21%20(II).pdf">Hackathon 2k21</a></td>
+      <td>2021</td>
+      <td>Runner Up</td>
+      <td>1600+</td>
+      <td>IIIT Pune</td>
+    </tr>
+  </tbody>
+<table>
