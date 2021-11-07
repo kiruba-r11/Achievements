@@ -110,3 +110,31 @@ The repo contains all my achievements and its certificates
     </tr>
   </tbody>
 <table>
+  
+---
+  
+## Coding Profiles
+<table>
+  <thead>
+    <th>S.No</th>
+    <th>Website</th>
+    <th>Problems Solved/Rating</th>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>1.</td>
+      <td><a href="https://www.codechef.com/users/kiruba_r11">Codechef</a></td>
+      <td>Max rating - 1928 (4 ⭐) </td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td><a href="https://leetcode.com/kiruba_r11/">LeetCode</a></td>
+      <td>528 Problem Solved</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td><a href="https://www.hackerrank.com/prdkiruba">Java</a></td>
+      <td>Problem Solving - 6 ⭐</td>
+    </tr>
+  </tbody>
+<table>
