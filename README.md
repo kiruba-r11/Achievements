@@ -125,37 +125,37 @@ The repo contains all my achievements and its certificates
   <tbody align="center">
     <tr>
       <td>1.</td>
-      <td><a href="">Round - C</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Google%20Kick%20Start%202020.pdf">Round - C</a></td>
       <td>8011</td>
       <td>2020</td>
     </tr>
      <tr>
       <td>2.</td>
-      <td><a href="">Round - D</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Google%20Kick%20Start%202020.pdf">Round - D</a></td>
       <td>6177</td>
        <td>2020</td>
     </tr>
     <tr>
       <td>3.</td>
-      <td><a href="">Round - E</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Google%20Kick%20Start%202020.pdf">Round - E</a></td>
       <td>4010</td>
       <td>2020</td>
     </tr>
     <tr>
       <td>4.</td>
-      <td><a href="">Round - F</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Google%20Kick%20Start%202020.pdf">Round - F</a></td>
       <td>2985</td>
       <td>2020</td>
     </tr>
      <tr>
       <td>5.</td>
-      <td><a href="">Round - G</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Google%20Kick%20Start%202020.pdf">Round - G</a></td>
       <td>3110</td>
        <td>2020</td>
     </tr>
     <tr>
       <td>6.</td>
-      <td><a href="">Round - H</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Google%20Kick%20Start%202020.pdf">Round - H</a></td>
       <td>1199</td>
       <td>2020</td>
     </tr>
