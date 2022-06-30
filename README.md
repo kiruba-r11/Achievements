@@ -54,7 +54,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>6.</td>
-      <td><a href="">Jumble Tumble</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Jumble%20Tumble%20(I).pdf">Jumble Tumble</a></td>
       <td>2022</td>
       <td>Winner</td>
       <td>30</td>
@@ -62,7 +62,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>7.</td>
-      <td><a href="">Hackathon Coding</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Hackathon%20Coding%20(I).pdf">Hackathon Coding</a></td>
       <td>2022</td>
       <td>Winner</td>
       <td>30</td>
@@ -70,7 +70,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>8.</td>
-      <td><a href="">Technical Quiz</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Techinical%20Quiz%20(I).pdf">Technical Quiz</a></td>
       <td>2022</td>
       <td>Winner</td>
       <td>50</td>
@@ -78,7 +78,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>9.</td>
-      <td><a href="">Code Debugging</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Code%20Debugging%20(III).pdf">Code Debugging</a></td>
       <td>2022</td>
       <td>Third</td>
       <td>50</td>
@@ -86,7 +86,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>10.</td>
-      <td><a href="">Blind Coding</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Blind%20Coding%20(I).pdf">Blind Coding</a></td>
       <td>2022</td>
       <td>Winner</td>
       <td>30</td>
