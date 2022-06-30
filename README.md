@@ -180,7 +180,7 @@ The repo contains all my achievements and its certificates
     <tr>
       <td>2.</td>
       <td><a href="https://leetcode.com/kiruba_r11/">LeetCode</a></td>
-      <td>600 Problem Solved</td>
+      <td>926 Problems Solved</td>
     </tr>
     <tr>
       <td>3.</td>
