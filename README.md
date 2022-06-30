@@ -52,6 +52,46 @@ The repo contains all my achievements and its certificates
       <td>125</td>
       <td>PSG College of Technology</td>
     </tr>
+    <tr>
+      <td>6.</td>
+      <td><a href="">Jumble Tumble</a></td>
+      <td>2022</td>
+      <td>Winner</td>
+      <td>30</td>
+      <td>Coimbatore Institute of Technology</td>
+    </tr>
+    <tr>
+      <td>7.</td>
+      <td><a href="">Hackathon Coding</a></td>
+      <td>2022</td>
+      <td>Winner</td>
+      <td>30</td>
+      <td>Karpagam College of Engineering</td>
+    </tr>
+    <tr>
+      <td>8.</td>
+      <td><a href="">Technical Quiz</a></td>
+      <td>2022</td>
+      <td>Winner</td>
+      <td>50</td>
+      <td>Karpagam College of Engineering</td>
+    </tr>
+    <tr>
+      <td>9.</td>
+      <td><a href="">Code Debugging</a></td>
+      <td>2022</td>
+      <td>Third</td>
+      <td>50</td>
+      <td>Karpagam College of Engineering</td>
+    </tr>
+    <tr>
+      <td>10.</td>
+      <td><a href="">Blind Coding</a></td>
+      <td>2022</td>
+      <td>Winner</td>
+      <td>30</td>
+      <td>Karpagam College of Engineering</td>
+    </tr>
   </tbody>
 </table>
 
