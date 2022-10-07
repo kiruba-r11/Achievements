@@ -14,7 +14,7 @@ The repo contains all my achievements and its certificates
   <tbody align="center">
     <tr>
       <td>1.</td>
-      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/War%20Tech%20(II).pdf">War Tech</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Yugam'20/War%20Tech%20(II).pdf">War Tech</a></td>
       <td>2020</td>
       <td>Runner Up</td>
       <td>75</td>
@@ -22,7 +22,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>2.</td>
-      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Codeathon%20(I).pdf">Codeathon</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Yugam'21/Codeathon%20(I).pdf">Codeathon</a></td>
       <td>2021</td>
       <td>Winner</td>
       <td>300</td>
@@ -30,7 +30,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>3.</td>
-      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Technical%20Treasure%20Trailing%20(I).pdf">Technical Treasure Trailing</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Yugam'21/Technical%20Treasure%20Trailing%20(I).pdf">Technical Treasure Trailing</a></td>
       <td>2021</td>
       <td>Winner</td>
       <td>180</td>
@@ -38,7 +38,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>4.</td>
-      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Kryptoz%20Reckon%20(II).pdf">Kryptoz Reckon</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Yukta'21/Kryptoz%20Reckon%20(II).pdf">Kryptoz Reckon</a></td>
       <td>2021</td>
       <td>Runner Up</td>
       <td>50</td>
@@ -46,7 +46,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>5.</td>
-      <td><a href="">Coders Crusade</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Srishti'21/Coders%20Crusade%20(I).pdf">Coders Crusade</a></td>
       <td>2021</td>
       <td>Winner</td>
       <td>125</td>
@@ -54,7 +54,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>6.</td>
-      <td><a href="">Jumble Tumble</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Melinia'22/Jumble%20Tumble%20(I).pdf">Jumble Tumble</a></td>
       <td>2022</td>
       <td>Winner</td>
       <td>30</td>
@@ -62,7 +62,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>7.</td>
-      <td><a href="">Hackathon Coding</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Dhruva'22/Hackathon%20Coding%20(I).pdf">Hackathon Coding</a></td>
       <td>2022</td>
       <td>Winner</td>
       <td>30</td>
@@ -70,7 +70,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>8.</td>
-      <td><a href="">Technical Quiz</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Dhruva'22/Techinical%20Quiz%20(I).pdf">Technical Quiz</a></td>
       <td>2022</td>
       <td>Winner</td>
       <td>50</td>
@@ -78,7 +78,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>9.</td>
-      <td><a href="">Code Debugging</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Dhruva'22/Code%20Debugging%20(III).pdf">Code Debugging</a></td>
       <td>2022</td>
       <td>Third</td>
       <td>50</td>
@@ -86,7 +86,7 @@ The repo contains all my achievements and its certificates
     </tr>
     <tr>
       <td>10.</td>
-      <td><a href="">Blind Coding</a></td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Dhruva'22/Blind%20Coding%20(I).pdf">Blind Coding</a></td>
       <td>2022</td>
       <td>Winner</td>
       <td>30</td>
