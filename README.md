@@ -17,7 +17,7 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Yugam'20/War%20Tech%20(II).pdf">War Tech</a></td>
       <td>2020</td>
       <td>Runner Up</td>
-      <td>75</td>
+      <td>75+</td>
       <td>Kumaraguru College of Technology</td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Yugam'21/Codeathon%20(I).pdf">Codeathon</a></td>
       <td>2021</td>
       <td>Winner</td>
-      <td>300</td>
+      <td>300+</td>
       <td>Kumaraguru College of Technology</td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Yugam'21/Technical%20Treasure%20Trailing%20(I).pdf">Technical Treasure Trailing</a></td>
       <td>2021</td>
       <td>Winner</td>
-      <td>180</td>
+      <td>180+</td>
       <td>Kumaraguru College of Technology</td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Yukta'21/Kryptoz%20Reckon%20(II).pdf">Kryptoz Reckon</a></td>
       <td>2021</td>
       <td>Runner Up</td>
-      <td>50</td>
+      <td>50+</td>
       <td>PSG Institute of Technology and Applied Research</td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Srishti'21/Coders%20Crusade%20(I).pdf">Coders Crusade</a></td>
       <td>2021</td>
       <td>Winner</td>
-      <td>125</td>
+      <td>125+</td>
       <td>PSG College of Technology</td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Melinia'22/Jumble%20Tumble%20(I).pdf">Jumble Tumble</a></td>
       <td>2022</td>
       <td>Winner</td>
-      <td>30</td>
+      <td>30+</td>
       <td>Coimbatore Institute of Technology</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Dhruva'22/Hackathon%20Coding%20(I).pdf">Hackathon Coding</a></td>
       <td>2022</td>
       <td>Winner</td>
-      <td>30</td>
+      <td>30+</td>
       <td>Karpagam College of Engineering</td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Dhruva'22/Techinical%20Quiz%20(I).pdf">Technical Quiz</a></td>
       <td>2022</td>
       <td>Winner</td>
-      <td>50</td>
+      <td>50+</td>
       <td>Karpagam College of Engineering</td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Dhruva'22/Code%20Debugging%20(III).pdf">Code Debugging</a></td>
       <td>2022</td>
       <td>Third</td>
-      <td>50</td>
+      <td>50+</td>
       <td>Karpagam College of Engineering</td>
     </tr>
     <tr>
@@ -89,8 +89,24 @@ The repo contains all my achievements and its certificates
       <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Dhruva'22/Blind%20Coding%20(I).pdf">Blind Coding</a></td>
       <td>2022</td>
       <td>Winner</td>
-      <td>30</td>
+      <td>30+</td>
       <td>Karpagam College of Engineering</td>
+    </tr>
+    <tr>
+      <td>11.</td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Shamrock'22/Alohomora%20(II).pdf">Alohomora</a></td>
+      <td>2022</td>
+      <td>Runner Up</td>
+      <td>50+</td>
+      <td>Sai Ram Engineering College</td>
+    </tr>
+    <tr>
+      <td>12.</td>
+      <td><a href="https://github.com/kiruba-r11/Achievements/blob/main/Shamrock'22/You%20%26%20I%20(II).pdf">You & I</a></td>
+      <td>2022</td>
+      <td>Runner Up</td>
+      <td>50+</td>
+      <td>Sai Ram Engineering College</td>
     </tr>
   </tbody>
 </table>
